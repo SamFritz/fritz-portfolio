@@ -1,4 +1,17 @@
-# Welcome to your Jupyter Book
+# Welcome
+
+Oh hello and welcome! I've created this space to explore how Jupyter Books work adn the functionalities and applications of Jupyter Notebooks.
+
+I'll be using my professional experiences to provide an example portfolio!
+
+
+
+
+
+
+
+<!--
+## Sample Content
 
 This is a small sample book to give you a feel for how book content is
 structured.
